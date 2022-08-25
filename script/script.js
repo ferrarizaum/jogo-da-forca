@@ -139,6 +139,5 @@ function vitoria(){
 
 
 
-    //desenhos no canvas
 
 
