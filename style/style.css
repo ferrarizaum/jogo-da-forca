@@ -1,0 +1,15 @@
+* {
+    background-color: #F3F5FC;
+}
+
+.botao{
+    visibility: hidden;
+    display: flex;
+    margin-top: 2%;
+    margin-left: 40%;
+    background-color: darkblue;
+    color: white;
+    border-radius: 15px;
+    font-size: 32px;
+}
+
